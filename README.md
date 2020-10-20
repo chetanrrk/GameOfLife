@@ -2,7 +2,7 @@
 I wrote this simulation upon hearing news of professor Conway's passing (RIP prof. Conway!). Currently I randomly initialize the game that allows me to observe interesting patterns that may not have been observed (but also missing lots of other well known patterns). I am hoping to expand it to form more of his well known patterns.
 
 To Run:
-python GameOfLife.py
+python game_of_life.py
 
 The rules of the game are as described by Prof Conway
 1) Any live cell with fewer than two live neighbours dies, as if by underpopulation.
