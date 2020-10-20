@@ -1,2 +1,2 @@
-Python>=3.0
-anaconda>=3.0
+Python>=2.7
+anaconda>=2.7
